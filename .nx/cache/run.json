@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx run TicTacToeApp:serve",
+    "startTime": "2024-01-16T19:00:05.898Z",
+    "endTime": "2024-01-16T23:04:29.231Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "TicTacToeApp:serve:development",
+      "target": "serve",
+      "projectName": "TicTacToeApp",
+      "hash": "10274659379824264073",
+      "startTime": "2024-01-16T19:00:05.952Z",
+      "endTime": "2024-01-16T23:04:29.207Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}

@@ -5,7 +5,7 @@ import { CommonModule } from '@angular/common';
   selector: 'app-square',
   standalone: true,
   imports: [CommonModule],
-  template: `<p>square works!</p>`,
-  styles: ``
+  templateUrl: './square.component.html',
+  styleUrl: './square.component.css'
 })
-export class SquareComponent {}
+export class SquareComponent { }
